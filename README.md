@@ -118,7 +118,8 @@ train_model(model, train_loader)
 
 
 ## New Sample Data Prediction
-<img width="314" height="196" alt="Screenshot 2026-05-14 080501" src="https://github.com/user-attachments/assets/f19eef94-2245-4d9d-9dcf-5f29579a57df" />
+<img width="482" height="527" alt="Screenshot 2026-05-14 080422" src="https://github.com/user-attachments/assets/1c374947-d3cd-4465-b8e8-11621c0835db" />
+
 
 
 ## RESULT
